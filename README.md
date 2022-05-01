@@ -1,0 +1,1 @@
+# major-or-minor-decision-apps
